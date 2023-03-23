@@ -97,9 +97,21 @@ body {
   background: #A19E99;
 }
 .buttons {
+  margin-top: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.right img {
+  margin-left: -40px;
+  width: 500px;
+  
 }
 /* 
 .button-intra {
